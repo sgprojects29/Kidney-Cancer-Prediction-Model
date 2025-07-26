@@ -8,6 +8,6 @@
 
 5. Evaluation is done using accuracy, confusion matrix, precision, recall, and F1-score.
 
-6.The project follows a real-world structure with organized folders for data, code, models, and reports.
+6. The project follows a real-world structure with organized folders for data, code, models, and reports.
 
 7. Outputs include a trained model file, feature importance chart, and performance summaries.
