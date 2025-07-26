@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 
 # Load dataset
-data = pd.read_csv("kidney_cancer_data.csv")
+data = pd.read_csv("kidney_cancer_data.csv")  
 
 # Display dataset structure
 print(data.head())
