@@ -1,10 +1,10 @@
  Kidney-Cancer-Prediction-Model.
  
-•	This project aims to predict kidney cancer in patients using medical data with a machine learning model.
-•	It uses features like age, blood pressure, blood urea, serum creatinine, hemoglobin, sugar level, and tumor size.
-•	Data is cleaned, scaled, and split into training and testing sets for model preparation.
-•	A Random Forest Classifier is used for prediction due to its accuracy and feature importance capabilities.
-•	Evaluation is done using accuracy, confusion matrix, precision, recall, and F1-score.
-•	The project follows a real-world structure with organized folders for data, code, models, and reports.
-•	Outputs include a trained model file, feature importance chart, and performance summaries.
+•	The main objective of this project is to build a machine learning model that can predict the likelihood of kidney cancer in patients using clinical and physiological data.
+•	The dataset used contains patient information including age, blood pressure, blood urea, serum creatinine, hemoglobin levels, sugar level, and tumor size, along with a binary target column Kidney_Cancer indicating the presence or absence of the disease.
+•	Data preprocessing steps include checking for and handling missing values, normalizing the numeric data using StandardScaler, and splitting the dataset into training and testing subsets to prepare it for modeling.
+•	Random Forest Classifier is used as the predictive model because of its high performance, ability to handle both linear and non-linear patterns, and ease of interpretability through feature importance scoring.
+•	Model evaluation is done using common classification metrics like accuracy, confusion matrix, precision, recall, and F1-score, along with visualizing feature importance to understand which features contribute most to prediction.
+•	The project is structured in an organized way, with separate folders for data, source code, saved models, and performance reports, reflecting real-world software engineering practices.
+•	The final output includes the trained model saved as a .pkl file, a PNG image showing feature importance, and performance reports summarizing how well the model performs on unseen data.
 
