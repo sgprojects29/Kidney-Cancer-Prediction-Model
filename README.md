@@ -1,6 +1,6 @@
  Kidney-Cancer-Prediction-Model.
  
-•	The main objective of this project is to build a machine learning model that can predict the likelihood of kidney cancer in patients using clinical and physiological data.
+•	The main objective of this project is to build a machine learning model that can predict the likelihood of kidney cancer in patients using clinical and physiological data. 
 •	The dataset used contains patient information including age, blood pressure, blood urea, serum creatinine, hemoglobin levels, sugar level, and tumor size, along with a binary target column Kidney_Cancer indicating the presence or absence of the disease.
 •	Data preprocessing steps include checking for and handling missing values, normalizing the numeric data using StandardScaler, and splitting the dataset into training and testing subsets to prepare it for modeling.
 •	Random Forest Classifier is used as the predictive model because of its high performance, ability to handle both linear and non-linear patterns, and ease of interpretability through feature importance scoring.
