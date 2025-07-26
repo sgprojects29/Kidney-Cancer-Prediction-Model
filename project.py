@@ -13,7 +13,7 @@ from sklearn.metrics import classification_report, confusion_matrix, accuracy_sc
 # Load dataset
 data = pd.read_csv("kidney_cancer_data.csv")  
 
-# Display dataset structure
+# Display dataset structure   
 print(data.head())
 print(data.isnull().sum())
 
