@@ -1,4 +1,4 @@
-Kidney Cancer Prediction Model.
+ Kidney Cancer Prediction Model.
 
 •	This project aims to predict kidney cancer in patients using medical data with a machine learning model.
 •	It uses features like age, blood pressure, blood urea, serum creatinine, hemoglobin, sugar level, and tumor size.
