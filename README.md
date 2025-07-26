@@ -1,4 +1,4 @@
-#Kidney Cancer Prediction Model.
+Kidney Cancer Prediction Model.
 
 
 1. This project aims to predict kidney cancer in patients using medical data with a machine learning model.
