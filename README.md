@@ -7,3 +7,4 @@ Kidney Cancer Prediction Model.
 •	Evaluation is done using accuracy, confusion matrix, precision, recall, and F1-score.
 •	The project follows a real-world structure with organized folders for data, code, models, and reports.
 •	Outputs include a trained model file, feature importance chart, and performance summaries.
+ 
